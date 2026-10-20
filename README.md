@@ -2,11 +2,17 @@
 
 **LLM Agents · Reinforcement Learning · NLP · Multimodal Learning**
 
-I am a **Large Language Model Algorithm Engineer** at **Alibaba Holding (Alibaba Group Holding Limited)**, which I joined on August 3, 2026. My current work spans **post-training with OPD, synthetic data for code agents, RSI-based self-improvement, and multimodal agents**. Previously, I held the same role at **Alibaba International** from July 2024 to July 3, 2026, connecting agent research with customer service, voice interaction, and multimodal applications.
+I am a **Large Language Model Algorithm Engineer** at **Alibaba Holding (Alibaba Group Holding Limited)**, which I joined on August 3, 2026. My current work spans **code agent data synthesis, multimodal agent training, and research on agent learning**. Previously, I held the same role at **Alibaba International** from July 2024 to July 3, 2026, connecting agent research with customer service, voice interaction, and multimodal applications.
 
 I received my master's degree in Intelligent Control from **Sun Yat-sen University** in 2024 and my bachelor's degree in Computational Materials from the same university in 2021. Previously, I interned at Tencent AI Lab and Alibaba International.
 
 [Website](https://hebaomian.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=PjFPF9MAAAAJ&hl=en) · [Email](mailto:zhaozsh@alumni.sysu.edu.cn)
+
+## Current Work
+
+- **Code Agent Data Synthesis:** Develop synthetic training data for code agents, focusing on Terminal-Bench 3.0, machine learning, and scientific tasks. Work on task-oriented data and agent interaction trajectories to support coding, experimentation, and problem solving across these domains.
+- **Multimodal Agent Training:** Train multimodal models as agents, covering reflection, OPD, tool calling, and revisiting prior observations. Work on reinforcement learning for multimodal agent tasks that combine perception, reasoning, and interaction across multiple steps.
+- **Research on Agent Learning:** Investigate Claude's reasoning trajectories through probing and reverse engineering. Explore knowledge distillation, OPD, RSI-based self-improvement, and agentic reinforcement learning, with a focus on reasoning transfer and iterative agent improvement.
 
 ## Research interests
 
@@ -38,7 +44,7 @@ We study multi-turn alignment for LLM agents through turn-specific weighting and
 
 | Organization | Role and focus | Period |
 | --- | --- | --- |
-| Alibaba Holding (Alibaba Group Holding Limited) | Large Language Model Algorithm Engineer · Post-training with OPD, code agent data synthesis, RSI-based self-improvement, and multimodal agents | Aug 3, 2026 – Present |
+| Alibaba Holding (Alibaba Group Holding Limited) | Large Language Model Algorithm Engineer · Code agent data synthesis, multimodal agent training, and research on agent learning | Aug 3, 2026 – Present |
 | Alibaba International | Large Language Model Algorithm Engineer · Customer service agents, multimodal review, voice agents, and reinforcement learning | Jul 2024 – Jul 3, 2026 |
 | Alibaba International | RLHF, DPO, and automated evaluation · Research Intern | Dec 2023 – Feb 2024 |
 | Tencent AI Lab | LLM role-playing, game commentary, and report generation · Research Intern | May 2023 – Oct 2023 |
