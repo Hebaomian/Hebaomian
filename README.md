@@ -2,7 +2,7 @@
 
 **LLM Agents · Reinforcement Learning · NLP · Multimodal Learning**
 
-I am at **Alibaba Holding (Alibaba Group Holding Limited)**, which I joined on August 3, 2026. My research focuses on language model agents and reinforcement learning. Previously, I worked at **Alibaba International** from July 2024 to July 3, 2026, connecting agent research with customer service, voice interaction, and multimodal applications.
+I am a **Large Language Model Algorithm Engineer** at **Alibaba Holding (Alibaba Group Holding Limited)**, which I joined on August 3, 2026. My current work spans **post-training with OPD, synthetic data for code agents, RSI-based self-improvement, and multimodal agents**. Previously, I held the same role at **Alibaba International** from July 2024 to July 3, 2026, connecting agent research with customer service, voice interaction, and multimodal applications.
 
 I received my master's degree in Intelligent Control from **Sun Yat-sen University** in 2024 and my bachelor's degree in Computational Materials from the same university in 2021. Previously, I interned at Tencent AI Lab and Alibaba International.
 
@@ -10,9 +10,9 @@ I received my master's degree in Intelligent Control from **Sun Yat-sen Universi
 
 ## Research interests
 
-- **Agentic reinforcement learning:** multi-turn preference learning, turn-level alignment, reasoning, and tool use.
+- **Agent learning and post-training:** OPD, RSI-based self-improvement, synthetic data for code agents, multi-turn preference learning, and turn-level alignment.
 - **Natural language processing:** source-free domain adaptation, question answering, and aspect-based sentiment analysis.
-- **Multimodal learning:** cross-modal retrieval, graph-based representations, and vision-language applications.
+- **Multimodal learning:** multimodal agents, cross-modal retrieval, graph-based representations, and vision-language applications.
 
 ## Recent work
 
@@ -36,10 +36,10 @@ We study multi-turn alignment for LLM agents through turn-specific weighting and
 
 ## Experience
 
-| Organization | Focus | Period |
+| Organization | Role and focus | Period |
 | --- | --- | --- |
-| Alibaba Holding (Alibaba Group Holding Limited) | Current affiliation | Aug 3, 2026 – Present |
-| Alibaba International | Customer service agents, multimodal review, voice agents, and reinforcement learning | Jul 2024 – Jul 3, 2026 |
+| Alibaba Holding (Alibaba Group Holding Limited) | Large Language Model Algorithm Engineer · Post-training with OPD, code agent data synthesis, RSI-based self-improvement, and multimodal agents | Aug 3, 2026 – Present |
+| Alibaba International | Large Language Model Algorithm Engineer · Customer service agents, multimodal review, voice agents, and reinforcement learning | Jul 2024 – Jul 3, 2026 |
 | Alibaba International | RLHF, DPO, and automated evaluation · Research Intern | Dec 2023 – Feb 2024 |
 | Tencent AI Lab | LLM role-playing, game commentary, and report generation · Research Intern | May 2023 – Oct 2023 |
 
