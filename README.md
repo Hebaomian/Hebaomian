@@ -6,7 +6,7 @@ I am a **Large Language Model Algorithm Engineer** at **Alibaba Holding (Alibaba
 
 I received my master's degree in Intelligent Control from **Sun Yat-sen University** in 2024 and my bachelor's degree in Computational Materials from the same university in 2021. Previously, I interned at Tencent AI Lab and Alibaba International.
 
-[Website](https://hebaomian.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=PjFPF9MAAAAJ&hl=en) · [Email](mailto:zhaozsh@alumni.sysu.edu.cn)
+[Website](https://zishuo-zhao.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=PjFPF9MAAAAJ&hl=en) · [Email](mailto:zhaozsh@alumni.sysu.edu.cn)
 
 ## Current Work
 
