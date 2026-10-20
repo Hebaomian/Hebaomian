@@ -2,7 +2,7 @@
 
 **LLM Agents · Reinforcement Learning · NLP · Multimodal Learning**
 
-I work at **Alibaba International**, connecting research on language model agents with real-world customer service, voice interaction, and multimodal applications.
+I am at **Alibaba Holding (Alibaba Group Holding Limited)**, which I joined on August 3, 2026. My research focuses on language model agents and reinforcement learning. Previously, I worked at **Alibaba International** from July 2024 to July 3, 2026, connecting agent research with customer service, voice interaction, and multimodal applications.
 
 I received my master's degree in Intelligent Control from **Sun Yat-sen University** in 2024 and my bachelor's degree in Computational Materials from the same university in 2021. Previously, I interned at Tencent AI Lab and Alibaba International.
 
@@ -38,7 +38,8 @@ We study multi-turn alignment for LLM agents through turn-specific weighting and
 
 | Organization | Focus | Period |
 | --- | --- | --- |
-| Alibaba International | Customer service agents, multimodal review, voice agents, and reinforcement learning | Jul 2024 – Present |
+| Alibaba Holding (Alibaba Group Holding Limited) | Current affiliation | Aug 3, 2026 – Present |
+| Alibaba International | Customer service agents, multimodal review, voice agents, and reinforcement learning | Jul 2024 – Jul 3, 2026 |
 | Alibaba International | RLHF, DPO, and automated evaluation · Research Intern | Dec 2023 – Feb 2024 |
 | Tencent AI Lab | LLM role-playing, game commentary, and report generation · Research Intern | May 2023 – Oct 2023 |
 
